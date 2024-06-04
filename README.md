@@ -11,5 +11,8 @@ This is a segement of the code where I download and sort a collection of 20,000 
 - accesses, stores, and graphs average brightness per image (for ai generated vs. real images)
 - accesses, stores, and graphs gradient magnitude per image (for ai generated vs. real images)
 
+## Requirements to use
+- cannot be used without importing all neccesary libraries referenced in the code
+- cannot be used without downloading kaggle dataset 
 ## Credits 
 - Data Set from Kaggle: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
